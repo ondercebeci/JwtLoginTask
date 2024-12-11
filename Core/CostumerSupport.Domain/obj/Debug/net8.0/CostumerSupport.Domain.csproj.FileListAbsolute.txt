@@ -1,0 +1,11 @@
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\bin\Debug\net8.0\CostumerSupport.Domain.deps.json
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\bin\Debug\net8.0\CostumerSupport.Domain.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\bin\Debug\net8.0\CostumerSupport.Domain.pdb
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\CostumerSupport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\CostumerSupport.Domain.AssemblyInfoInputs.cache
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\CostumerSupport.Domain.AssemblyInfo.cs
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\CostumerSupport.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\CostumerSupport.Domain.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\refint\CostumerSupport.Domain.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\CostumerSupport.Domain.pdb
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostumerSupport.Domain\obj\Debug\net8.0\ref\CostumerSupport.Domain.dll

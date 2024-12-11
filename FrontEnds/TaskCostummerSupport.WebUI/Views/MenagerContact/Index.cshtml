@@ -1,0 +1,43 @@
+﻿@model List<GetMenagerContactDto>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+	int count = 0;
+}
+<table class="table table-bordered">
+	<tr>
+		<th>#</th>
+		<th>Adı</th>
+		<th>Mail Adresi</th>
+		<th>Gönderilme Tarihi</th>
+		<th>Konu</th>
+		<th>Mesaj</th>
+		<th>Mesaj Durumu</th>
+		<th>Mesaj İçeriği</th>
+		<th>Mesajı Sil</th>
+	</tr>
+
+	@foreach (var item in Model)
+	{
+		count++;
+		<tr>
+			<th>@count</th>
+			<td>@item.Name @item.Surname</td>
+			<td>@item.Email</td>
+			<td>@item.SendDate.ToShortDateString()</td>
+			<td>@item.Subject</td>
+			<td>@item.Message</td>
+			<td>@item.Status</td>
+			<td><a href="/MenagerContact/UpdateMenagerContact/@item.ContactId/" class="btn btn-outline-success">Mesaj İçeriği</a></td>
+			<td><a href="/MenagerContact/RemoveMenagerContact/@item.ContactId/" class="btn btn-outline-danger"> Mesajı Sil</a></td>
+
+		</tr>
+	}
+
+</table>
+
+
+
+
+
+

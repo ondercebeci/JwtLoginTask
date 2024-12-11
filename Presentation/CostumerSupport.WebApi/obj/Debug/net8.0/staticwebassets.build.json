@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "neR2BnJsVU0yGUTRImU4VOkmVJZHB6BDoreUscCokz4=",
+  "Source": "CostumerSupport.WebApi",
+  "BasePath": "_content/CostumerSupport.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

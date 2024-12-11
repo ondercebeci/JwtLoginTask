@@ -1,0 +1,15 @@
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\bin\Debug\net8.0\CostummerSupport.Application.deps.json
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\bin\Debug\net8.0\CostummerSupport.Application.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\bin\Debug\net8.0\CostummerSupport.Application.pdb
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\CostummerSupport.Application.csproj.AssemblyReference.cache
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\CostummerSupport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\CostummerSupport.Application.AssemblyInfoInputs.cache
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\CostummerSupport.Application.AssemblyInfo.cs
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\CostummerSupport.Application.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\CostummerSupport.Application.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\refint\CostummerSupport.Application.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\CostummerSupport.Application.pdb
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\ref\CostummerSupport.Application.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\bin\Debug\net8.0\CostumerSupport.Domain.dll
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\bin\Debug\net8.0\CostumerSupport.Domain.pdb
+C:\Users\Engineer\source\repos\Task2Detay\Core\CostummerSupport.Application\obj\Debug\net8.0\Costumme.68625993.Up2Date

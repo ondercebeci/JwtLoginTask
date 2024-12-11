@@ -1,0 +1,11 @@
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\bin\Debug\net8.0\CostumerSupport.Dto.deps.json
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\bin\Debug\net8.0\CostumerSupport.Dto.dll
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\bin\Debug\net8.0\CostumerSupport.Dto.pdb
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\CostumerSupport.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\CostumerSupport.Dto.AssemblyInfoInputs.cache
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\CostumerSupport.Dto.AssemblyInfo.cs
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\CostumerSupport.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\CostumerSupport.Dto.dll
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\refint\CostumerSupport.Dto.dll
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\CostumerSupport.Dto.pdb
+C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\CostumerSupport.Dto\obj\Debug\net8.0\ref\CostumerSupport.Dto.dll

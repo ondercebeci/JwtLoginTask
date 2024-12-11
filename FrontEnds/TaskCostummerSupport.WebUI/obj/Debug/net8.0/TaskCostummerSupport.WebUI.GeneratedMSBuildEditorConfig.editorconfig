@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskCostummerSupport.WebUI
+build_property.RootNamespace = TaskCostummerSupport.WebUI
+build_property.ProjectDir = C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\TaskCostummerSupport.WebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Engineer\source\repos\Task2Detay\FrontEnds\TaskCostummerSupport.WebUI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/MenagerContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuYWdlckNvbnRhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/MenagerContact/UpdateMenagerContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuYWdlckNvbnRhY3RcVXBkYXRlTWVuYWdlckNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Menager/CreateMenager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuYWdlclxDcmVhdGVNZW5hZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Menager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuYWdlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Menager/UpdateMenager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuYWdlclxVcGRhdGVNZW5hZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Register/CreateAppUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcQ3JlYXRlQXBwVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/UILayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlMYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/UI/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/User/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/User/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Engineer/source/repos/Task2Detay/FrontEnds/TaskCostummerSupport.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rwjdbhl7j3

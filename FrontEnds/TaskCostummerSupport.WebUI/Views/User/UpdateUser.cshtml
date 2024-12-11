@@ -1,0 +1,28 @@
+﻿@model UpdateUserDto
+@{
+    ViewData["Title"] = "UpdateUser";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<form method="post">
+    <input type="hidden" asp-for="AppUserId" />
+    <label>Ad</label>
+    <input type="text" class="form-control" asp-for="Name" required />
+    <br />
+    <label>Soyad</label>
+    <input type="text" class="form-control" asp-for="Surname" required />
+    <br />
+    <label>Kullanıcı Adı</label>
+    <input type="text" class="form-control" asp-for="Username" required />
+    <br />
+    <label>Mail</label>
+    <input type="email" class="form-control" asp-for="Email" required />
+    <br />
+    <label>Şifre</label>
+    <input type="password" class="form-control" asp-for="Password" required/>
+    <br />
+    <label>Rol Güncelleme(Yönetici = 2 & Üye = 3)</label>
+    <input type="text" class="form-control" asp-for="AppRoleId" required />
+    <br />
+    <button class="btn btn-outline-primary">Güncelle</button>
+</form>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Presentation\\CostumerSupport.WebApi\\CostumerSupport.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FrontEnds\\TaskCostummerSupport.WebUI\\TaskCostummerSupport.WebUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+﻿@model CostumerSupport.Dto.UserDtos.CreateUserDto
+@{
+    ViewData["Title"] = "CreateUser";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<form method="post">
+
+    <label>Ad</label>
+    <input type="text" class="form-control" asp-for="Name" required />
+    <br />
+    <label>Soyad</label>
+    <input type="text" class="form-control" asp-for="Surname" required />
+    <br />
+    <label>Kullanıcı Adı</label>
+    <input type="text" class="form-control" asp-for="Username" required />
+    <br />
+    <label>Mail</label>
+    <input type="email" class="form-control" asp-for="Email" required />
+    <br />
+    <label>Şifre</label>
+    <input type="password" class="form-control" asp-for="Password" required />
+    <br />
+    <button class="btn btn-outline-success">Yeni Üye Ekle</button>
+</form>
+
